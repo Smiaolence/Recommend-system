@@ -1,4 +1,4 @@
-Recommend-system
+Recommender-system
 ================
 
-A recommend system based on context-aware.
+A recommender system based on context-aware collaborative filtering.
